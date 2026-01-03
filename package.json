@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-json",
+  "version": "1.0.0",
+  "description": "разберемся с тем, что же это такое, какие варианты использования бывают и поработаем с одним из инструментов REST API. Также познакомимся с популярным форматом данных JSON, без которого редко обходятся современные веб-приложения.\nhttps://youtu.be/sUsTbcVGvMM",
+  "keywords": [],
+  "main": "src/index.jsx",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
